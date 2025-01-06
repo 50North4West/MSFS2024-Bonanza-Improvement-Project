@@ -6,14 +6,19 @@
       "date": 133793271432576337
     },
     {
+      "path": "simobjects/airplanes/asobo_bonanza_g36/common/config/systems.cfg",
+      "size": 19928,
+      "date": 133805779071850783
+    },
+    {
       "path": "simobjects/airplanes/asobo_bonanza_g36/presets/asobo/bonanza_captmatto/config/ai.cfg",
       "size": 48,
       "date": 133778056577276218
     },
     {
       "path": "simobjects/airplanes/asobo_bonanza_g36/presets/asobo/bonanza_captmatto/config/aircraft.cfg",
-      "size": 2567,
-      "date": 133793708003455194
+      "size": 169,
+      "date": 133778056553679060
     },
     {
       "path": "simobjects/airplanes/asobo_bonanza_g36/presets/asobo/bonanza_captmatto/config/attached_objects.cfg",
